@@ -6,3 +6,7 @@ This repository contains a collection of diverse JavaScript projects showcasing 
 
 ## Project 2: BMI Calculator Web App
 -This repository features a user-friendly BMI Calculator web application crafted with HTML, CSS, and JavaScript. Monitor your Body Mass Index and promote healthy living with this convenient tool!  
+
+## Project 3: Loan Calculator Web App
+-This repository showcases a user-friendly Loan Calculator web application built with HTML, CSS, and JavaScript. Estimate your monthly loan payments, total interest, and loan amortization schedule with ease. Take control of your 
+ finances and plan for the future effectively using this intuitive tool!
