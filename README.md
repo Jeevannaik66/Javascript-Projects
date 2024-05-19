@@ -12,3 +12,4 @@ This repository contains a collection of diverse JavaScript projects showcasing 
  finances and plan for the future effectively using this intuitive tool!
 
 ## Project 4: RGB Color Generator
+-This project features an RGB Color Generator built with HTML, CSS, and JavaScript. Generate random RGB colors and explore their hexadecimal and RGB values. Use this tool for design inspiration, color palette creation, or simply to have fun experimenting with colors!
