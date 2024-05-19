@@ -10,3 +10,5 @@ This repository contains a collection of diverse JavaScript projects showcasing 
 ## Project 3: Loan Calculator Web
 -This repository showcases a user-friendly Loan Calculator web application built with HTML, CSS, and JavaScript. Estimate your monthly loan payments, total interest, and loan amortization schedule with ease. Take control of your 
  finances and plan for the future effectively using this intuitive tool!
+
+## Project 4: RGB Color Generator
